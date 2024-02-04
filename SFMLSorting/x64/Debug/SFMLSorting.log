@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Users\Admin\Documents\GitHub\SFMLSort\SFMLSorting\main.cpp(47,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Admin\Documents\GitHub\SFMLSort\SFMLSorting\main.cpp(48,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Admin\Documents\GitHub\SFMLSort\SFMLSorting\main.cpp(48,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLSorting.vcxproj -> D:\Users\Admin\Documents\GitHub\SFMLSort\SFMLSorting\x64\Debug\SFMLSorting.exe
